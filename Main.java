@@ -11,5 +11,6 @@ public class Main{
         laptopAdapter.plugIn();
         smartphoneAdapter.plugIn();
         refrigeratorAdapter.plugIn();
+        
     }
 }
